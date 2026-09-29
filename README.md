@@ -90,7 +90,7 @@ Online-shopping-sales-data
 │   ├── 电商网购销售数据_5000条_原始脏数据.csv
 │   └── 新电商网购销售数据_5000条.csv
 │
-├── python
+├── code
 │   ├── pandas清理.py
 │   ├── pandas数据分析.py
 │   └── 可视化分析.py
