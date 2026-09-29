@@ -96,5 +96,10 @@ Online-shopping-sales-data
 │   ├── 各个商品类别销售额占比.png
 │   ├── 2025年TOP5销售额省份.png
 │   └── 10月VS11月(商品类别销售额).png
+│   └── Pandas数据分析结果1.png
+│   └── Pand数据分析结果2.png
+│   └── Pand数据分析结果3.png
+│   └── SQL分析结果1.png
+│   └── SQL分析结果2.png
 │
 └── 项目背景.md
